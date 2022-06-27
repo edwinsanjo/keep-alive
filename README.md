@@ -1,2 +1,13 @@
 # keep-alive
-A python Program to keep pc alive. every 40 second it increases volume and decreases the volume. it is one of the best bigner project to learn 
+A simple python program to keep your pc alive untile the charge ends
+
+### to make it work 
+
+first 
+```bash
+pip install PySimpleGUI && pip install pyautogui
+```
+
+then clone this repo and run the main file
+
+## Your Program ready
